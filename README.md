@@ -79,3 +79,9 @@ Me chamo Ana Luiza Ribeiro, tenho 20 anos e sou natural de Goiás. Concluí o en
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mary-Janne&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
   />
+###
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/mary-janne/mary-janne/output/snake.svg" alt="Snake animation" />
+
+###
